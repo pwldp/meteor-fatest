@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "uikit-2": {}
+    },
+    "packages": {
+      "uikit-2": {
+        "git": "https://github.com/pwldp/meteor-uikit-2.git",
+        "tag": "v1.0.1",
+        "commit": "764702f7cba8b85df4dc43b2ffd0ebd36205d410"
+      }
+    }
+  }
+}
